@@ -1,0 +1,12 @@
+[ERROR Aug 18 00:34:20.459957800, defaults.go:149] Could not load configuration: Failed to load configuration.
+
+Stacktrace: D:/a/cli/cli/internal/logging/logging.go:github.com/ActiveState/cli/internal/logging.Error:258
+D:/a/cli/cli/internal/logging/defaults.go:github.com/ActiveState/cli/internal/logging.init.0:149
+C:/hostedtoolcache/windows/go/1.15.14/x64/src/runtime/proc.go:runtime.doInit:5652
+C:/hostedtoolcache/windows/go/1.15.14/x64/src/runtime/proc.go:runtime.doInit:5647
+C:/hostedtoolcache/windows/go/1.15.14/x64/src/runtime/proc.go:runtime.doInit:5647
+C:/hostedtoolcache/windows/go/1.15.14/x64/src/runtime/proc.go:runtime.main:191
+C:/hostedtoolcache/windows/go/1.15.14/x64/src/runtime/asm_amd64.s:runtime.goexit:1374
+
+[DEBUG Aug 18 00:34:20.460940700, defaults.go:178] Args: [C:\Users\tux\AppData\Roaming\ActiveState\bin\state.exe exec --path C:\Users\tux\ActiveState\Perl-5.32 -- perl.exe C:\Users\tux\AppData\Local\Programs\MiKTeX\scripts/glossaries\makeglossaries ImmunoBERT]
+[DEBUG Aug 18 00:34:20.461946900, locale.go:34] Init

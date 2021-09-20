@@ -1,0 +1,2385 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.7) (preloaded format=pdflatex 2021.8.5)  18 AUG 2021 00:33
+entering extended mode
+**./ImmunoBERT.tex
+(ImmunoBERT.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-07-12> (infthesis.cls
+Document Class: infthesis 2013/02/07 v3.7 School of Informatics Thesis Class
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count182
+\Gm@cntv=\count183
+\c@Gm@tempcnt=\count184
+\Gm@bindingoffset=\dimen138
+\Gm@wd@mp=\dimen139
+\Gm@odd@mp=\dimen140
+\Gm@even@mp=\dimen141
+\Gm@layoutwidth=\dimen142
+\Gm@layoutheight=\dimen143
+\Gm@layouthoffset=\dimen144
+\Gm@layoutvoffset=\dimen145
+\Gm@dimlist=\toks17
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)) (C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(eushield.sty
+Package: eushield 2000/11/23\ v1.0\ Commands for including the EU shield graphi
+c
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2021/02/12 v1.4n Standard LaTeX document class
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen146
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/pslatex\pslatex.sty
+Package: pslatex 2021/01/13 v1.3 pslatex emulation (DPC)
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 66.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ptmcm/m/n on input line 66.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptmcm/m/n on input line 66.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 67.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ptmcm/m/it on input line 67.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ptmcm/m/it on input line 67.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 68.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/pzccm/m/n on input line 68.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/pzccm/m/n on input line 68.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 69.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 69.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 69.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 75.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 76.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 76.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 76.
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/sectsty\sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+
+
+LaTeX Warning: Command \underbar  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \underline  has changed.
+               Check if current package is valid.
+
+) (C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen147
+\captionmargin@=\dimen148
+\captionwidth=\dimen149
+\caption@tempdima=\dimen150
+\caption@indent=\dimen151
+\caption@parindent=\dimen152
+\caption@hangindent=\dimen153
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count194
+\c@continuedfloat=\count195
+))
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.s
+ty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count196
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) (C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count197
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count198
+\c@listtotal=\count199
+\c@listcount=\count266
+\c@liststart=\count267
+\c@liststop=\count268
+\c@citecount=\count269
+\c@citetotal=\count270
+\c@multicitecount=\count271
+\c@multicitetotal=\count272
+\c@instcount=\count273
+\c@maxnames=\count274
+\c@minnames=\count275
+\c@maxitems=\count276
+\c@minitems=\count277
+\c@citecounter=\count278
+\c@maxcitecounter=\count279
+\c@savedcitecounter=\count280
+\c@uniquelist=\count281
+\c@uniquename=\count282
+\c@refsection=\count283
+\c@refsegment=\count284
+\c@maxextratitle=\count285
+\c@maxextratitleyear=\count286
+\c@maxextraname=\count287
+\c@maxextradate=\count288
+\c@maxextraalpha=\count289
+\c@abbrvpenalty=\count290
+\c@highnamepenalty=\count291
+\c@lownamepenalty=\count292
+\c@maxparens=\count293
+\c@parenlevel=\count294
+\blx@tempcnta=\count295
+\blx@tempcntb=\count296
+\blx@tempcntc=\count297
+\blx@maxsection=\count298
+\blx@maxsegment@0=\count299
+\blx@notetype=\count300
+\blx@parenlevel@text=\count301
+\blx@parenlevel@foot=\count302
+\blx@sectionciteorder@0=\count303
+\blx@entrysetcounter=\count304
+\blx@biblioinstance=\count305
+\labelnumberwidth=\skip49
+\labelalphawidth=\skip50
+\biblabelsep=\skip51
+\bibitemsep=\skip52
+\bibnamesep=\skip53
+\bibinitsep=\skip54
+\bibparsep=\skip55
+\bibhang=\skip56
+\blx@bcfin=\read2
+\blx@bcfout=\write3
+\blx@langwohyphens=\language79
+\c@mincomprange=\count306
+\c@maxcomprange=\count307
+\c@mincompwidth=\count308
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'numeric.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count309
+\c@savedafterword=\count310
+\c@annotator=\count311
+\c@savedannotator=\count312
+\c@author=\count313
+\c@savedauthor=\count314
+\c@bookauthor=\count315
+\c@savedbookauthor=\count316
+\c@commentator=\count317
+\c@savedcommentator=\count318
+\c@editor=\count319
+\c@savededitor=\count320
+\c@editora=\count321
+\c@savededitora=\count322
+\c@editorb=\count323
+\c@savededitorb=\count324
+\c@editorc=\count325
+\c@savededitorc=\count326
+\c@foreword=\count327
+\c@savedforeword=\count328
+\c@holder=\count329
+\c@savedholder=\count330
+\c@introduction=\count331
+\c@savedintroduction=\count332
+\c@namea=\count333
+\c@savednamea=\count334
+\c@nameb=\count335
+\c@savednameb=\count336
+\c@namec=\count337
+\c@savednamec=\count338
+\c@translator=\count339
+\c@savedtranslator=\count340
+\c@shortauthor=\count341
+\c@savedshortauthor=\count342
+\c@shorteditor=\count343
+\c@savedshorteditor=\count344
+\c@labelname=\count345
+\c@savedlabelname=\count346
+\c@institution=\count347
+\c@savedinstitution=\count348
+\c@lista=\count349
+\c@savedlista=\count350
+\c@listb=\count351
+\c@savedlistb=\count352
+\c@listc=\count353
+\c@savedlistc=\count354
+\c@listd=\count355
+\c@savedlistd=\count356
+\c@liste=\count357
+\c@savedliste=\count358
+\c@listf=\count359
+\c@savedlistf=\count360
+\c@location=\count361
+\c@savedlocation=\count362
+\c@organization=\count363
+\c@savedorganization=\count364
+\c@origlocation=\count365
+\c@savedoriglocation=\count366
+\c@origpublisher=\count367
+\c@savedorigpublisher=\count368
+\c@publisher=\count369
+\c@savedpublisher=\count370
+\c@language=\count371
+\c@savedlanguage=\count372
+\c@origlanguage=\count373
+\c@savedoriglanguage=\count374
+\c@pageref=\count375
+\c@savedpageref=\count376
+\shorthandwidth=\skip57
+\shortjournalwidth=\skip58
+\shortserieswidth=\skip59
+\shorttitlewidth=\skip60
+\shortauthorwidth=\skip61
+\shorteditorwidth=\skip62
+\locallabelnumberwidth=\skip63
+\locallabelalphawidth=\skip64
+\localshorthandwidth=\skip65
+\localshortjournalwidth=\skip66
+\localshortserieswidth=\skip67
+\localshorttitlewidth=\skip68
+\localshortauthorwidth=\skip69
+\localshorteditorwidth=\skip70
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+\c@textcitecount=\count377
+\c@textcitetotal=\count378
+\c@textcitemaxnames=\count379
+\c@biburlbigbreakpenalty=\count380
+\c@biburlbreakpenalty=\count381
+\c@biburlnumpenalty=\count382
+\c@biburlucpenalty=\count383
+\c@biburllcpenalty=\count384
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count385
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bbx
+File: numeric.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
+File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count386
+\c@bbx:relatedtotal=\count387
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric.cbx
+File: numeric.cbx 2020/12/31 v3.16 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+))
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen154
+\Gin@req@width=\dimen155
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/04/20 v2.17j AMS math features
+\@mathmargin=\skip71
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen156
+))
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen157
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count388
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count389
+\leftroot@=\count390
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count391
+\DOTSCASE@=\count392
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen158
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count393
+\c@MaxMatrixCols=\count394
+\dotsspace@=\muskip21
+\c@parentequation=\count395
+\dspbrk@lvl=\count396
+\tag@help=\toks19
+\row@=\count397
+\column@=\count398
+\maxfields@=\count399
+\andhelp@=\toks20
+\eqnshift@=\dimen159
+\alignsep@=\dimen160
+\tagshift@=\dimen161
+\tagwidth@=\dimen162
+\totwidth@=\dimen163
+\lineht@=\dimen164
+\@envbody=\toks21
+\multlinegap=\skip72
+\multlinetaggap=\skip73
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count400
+\float@exts=\toks23
+\float@box=\box52
+\@float@everytoks=\toks24
+\@floatcapt=\box53
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/makecell\makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+\col@sep=\dimen165
+\ar@mcellbox=\box54
+\extrarowheight=\dimen166
+\NC@list=\toks25
+\extratabsurround=\skip74
+\backup@length=\skip75
+\ar@cellbox=\box55
+)
+\rotheadsize=\dimen167
+\c@nlinenum=\count401
+\TeXr@lab=\toks26
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip76
+\multirow@cntb=\count402
+\multirow@dima=\skip77
+\bigstrutjot=\dimen168
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen169
+\WF@size=\dimen170
+\c@WF@wrappedlines=\count403
+\WF@box=\box56
+\WF@everypar=\toks27
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+\c@subfigure=\count404
+\c@subtable=\count405
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefineke
+ys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.s
+ty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen171
+\Hy@linkcounter=\count406
+\Hy@pagecounter=\count407
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref-langpat
+ches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count408
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4073.
+Package hyperref Info: Option `linktocpage' set `true' on input line 4073.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count409
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen172
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.s
+ty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count410
+\Field@Width=\dimen173
+\Fld@charsize=\dimen174
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring ON on input line 6094.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count411
+\c@Item=\count412
+\c@Hfootnote=\count413
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count414
+\c@bookmark@seq@number=\count415
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilec
+heck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecou
+nter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip78
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossarie
+s.sty
+Package: glossaries 2020/03/19 v4.46 (NLCT)
+ (C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks28
+\XKV@tempa@toks=\toks29
+)
+\XKV@depth=\count416
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty
+Package: mfirstuc 2017/11/14 v2.06 (NLCT)
+\@glsmfirst=\toks30
+\@glsmrest=\toks31
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/textcase\textcase.sty
+Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/xfor\xfor.sty
+Package: xfor 2009/02/05 v1.05 (NLCT)
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-base.st
+y
+Package: datatool-base 2019/09/27 v2.32 (NLCT)
+ (C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/substr\substr.sty
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count417
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-fp.sty
+Package: datatool-fp 2019/09/27 v2.32 (NLCT)
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp.sty
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/fp\defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count418
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count419
+\FP@xia=\count420
+\FP@xib=\count421
+\FP@xfa=\count422
+\FP@xfb=\count423
+\FP@rega=\count424
+\FP@regb=\count425
+\FP@regs=\count426
+\FP@times=\count427
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-addons.sty
+Package: fp-addons 1995/03/15
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-snap.sty
+Package: fp-snap 1995/04/05
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-exp.sty
+Package: fp-exp 1995/04/03
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-trigo.sty
+Package: fp-trigo 1995/04/14
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-pas.sty
+Package: fp-pas 1994/08/29
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count428
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-eqn.sty
+Package: fp-eqn 1995/04/03
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-upn.sty
+Package: fp-upn 1996/10/21
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-eval.sty
+Package: fp-eval 1995/04/03
+)))
+\@dtl@toks=\toks32
+\@dtl@tmpcount=\count429
+\dtl@tmplength=\skip79
+\dtl@sortresult=\count430
+\@dtl@numgrpsepcount=\count431
+\@dtl@datatype=\count432
+\dtl@codeA=\count433
+\dtl@codeB=\count434
+\@dtl@foreach@level=\count435
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossarie
+s-compatible-307.sty
+Package: glossaries-compatible-307 2020/03/19 v4.46 (NLCT)
+)
+\gls@level=\count436
+\@gls@tmpb=\toks33
+\gls@tmplen=\skip80
+\glskeylisttok=\toks34
+\glslabeltok=\toks35
+\glsshorttok=\toks36
+\glslongtok=\toks37
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossar
+y-hypernav.sty
+Package: glossary-hypernav 2020/03/19 v4.46 (NLCT)
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossar
+y-list.sty
+Package: glossary-list 2020/03/19 v4.46 (NLCT)
+\glslistdottedwidth=\skip81
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossar
+y-long.sty
+Package: glossary-long 2020/03/19 v4.46 (NLCT)
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2021-05-07 v4.16 Multi-page Table package (DPC)
+\LTleft=\skip82
+\LTright=\skip83
+\LTpre=\skip84
+\LTpost=\skip85
+\LTchunksize=\count437
+\LTcapwidth=\dimen175
+\LT@head=\box57
+\LT@firsthead=\box58
+\LT@foot=\box59
+\LT@lastfoot=\box60
+\LT@gbox=\box61
+\LT@cols=\count438
+\LT@rows=\count439
+\c@LT@tables=\count440
+\c@LT@chunks=\count441
+\LT@p@ftn=\toks38
+)
+\glsdescwidth=\skip86
+\glspagelistwidth=\skip87
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossar
+y-super.sty
+Package: glossary-super 2020/03/19 v4.46 (NLCT)
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\supertabular
+.sty
+Package: supertabular 2020/02/02 v4.1g the supertabular environment
+\c@tracingst=\count442
+\ST@wd=\dimen176
+\ST@rightskip=\skip88
+\ST@leftskip=\skip89
+\ST@parfillskip=\skip90
+\ST@pageleft=\dimen177
+\ST@headht=\dimen178
+\ST@tailht=\dimen179
+\ST@pagesofar=\dimen180
+\ST@pboxht=\dimen181
+\ST@lineht=\dimen182
+\ST@prevht=\dimen183
+\ST@toadd=\dimen184
+\ST@dimen=\dimen185
+\ST@pbox=\box62
+))
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossar
+y-tree.sty
+Package: glossary-tree 2020/03/19 v4.46 (NLCT)
+\glstreeindent=\skip91
+))
+\glswrite=\write4
+\glo@main@file=\write5
+\openout5 = `ImmunoBERT.glo'.
+
+Package glossaries Info: Writing glossary file ImmunoBERT.glo on input line 95.
+
+\glo@acronym@file=\write6
+\openout6 = `ImmunoBERT.acn'.
+
+Package glossaries Info: Writing glossary file ImmunoBERT.acn on input line 95.
+
+
+
+Package biblatex Warning: Patching footnotes failed.
+(biblatex)                Footnote detection will not work.
+
+\@quotelevel=\count443
+\@quotereset=\count444
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdfte
+x.def
+File: l3backend-pdftex.def 2021-07-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count445
+\l__pdf_internal_box=\box63
+) (ImmunoBERT.aux)
+\openout1 = `ImmunoBERT.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 111.
+LaTeX Font Info:    Trying to load font information for OMS+pzccm on input line
+ 111.
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omspzccm.fd
+File: omspzccm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/pzccm.
+)
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(113.81102pt, 412.56497pt, 71.13188pt)
+* v-part:(T,H,B)=(56.9055pt, 674.33032pt, 113.81102pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=412.56497pt
+* \textheight=674.33032pt
+* \oddsidemargin=41.54103pt
+* \evensidemargin=41.54103pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count446
+\scratchdimen=\dimen186
+\scratchbox=\box64
+\nofMPsegments=\count447
+\nofMParguments=\count448
+\everyMPshowfont=\toks39
+\MPscratchCnt=\count449
+\MPscratchDim=\dimen187
+\MPnumerator=\count450
+\makeMPintoPDFobject=\count451
+\everyMPtoPDFconversion=\toks40
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-bas
+e.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+ (C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+)
+Package caption Info: supertabular package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2021-07-12 L3 programming layer (loader) 
+)
+Package biblatex Info: ... and expl3
+(biblatex)             2021-07-12 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.s
+ty
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.
+sty
+Package: xparse 2021-06-18 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
+)
+\openout3 = `ImmunoBERT.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'ImmunoBERT.bbl' found.
+ (ImmunoBERT.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                provost_learning_2003
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
+Package biblatex Info: Reference section=0 on input line 111.
+Package biblatex Info: Reference segment=0 on input line 111.
+ (C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+)
+Package hyperref Info: Link coloring ON on input line 111.
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitle
+string.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count452
+)
+LaTeX Info: Redefining \ref on input line 111.
+LaTeX Info: Redefining \pageref on input line 111.
+LaTeX Info: Redefining \nameref on input line 111.
+ (ImmunoBERT.out) (ImmunoBERT.out)
+\@outlinefile=\write7
+\openout7 = `ImmunoBERT.out'.
+
+LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
+(Font)              scaled to size 18.66588pt on input line 140.
+ [1
+
+\openout4 = `ImmunoBERT.ist'.
+
+{C:/Users/tux/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 10.79993pt on input line 140.
+LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
+(Font)              scaled to size 10.79993pt on input line 140.
+<C:/Users/tux/Documents/MScProject/epitope/latex/pics//summary.pdf, id=231, 284
+.52756pt x 426.79132pt>
+File: C:/Users/tux/Documents/MScProject/epitope/latex/pics//summary.pdf Graphic
+ file (type pdf)
+<use C:/Users/tux/Documents/MScProject/epitope/latex/pics//summary.pdf>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/epitope/latex/pics//
+summary.pdf  used on input line 140.
+(pdftex.def)             Requested size: 156.7767pt x 235.17227pt.
+
+
+LaTeX Warning: Reference `fig:summary' on page i undefined on input line 140.
+
+
+LaTeX Warning: Reference `fig:summary' on page i undefined on input line 140.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.140 
+       [1
+
+ <C:/Users/tux/Documents/MScProject/epitope/latex/pics//summary.pdf>]
+LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
+(Font)              scaled to size 15.55188pt on input line 141.
+
+Overfull \hbox (5.32846pt too wide) in paragraph at lines 144--145
+[]\OT1/ptm/m/n/12 It would also not have been pos-si-ble with-out Ajitha Ra-jan
+, Javier Al-faro and Georges
+ []
+
+[2] [3]
+LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
+(Font)              scaled to size 22.39185pt on input line 150.
+
+
+Package hyperref Warning: old toc file detected, not used; run LaTeX again.
+
+\tf@toc=\write8
+\openout8 = `ImmunoBERT.toc'.
+
+[4
+
+]
+Chapter 1.
+[1
+
+
+]
+
+LaTeX Warning: Reference `chapter:background' on page 2 undefined on input line
+ 163.
+
+
+LaTeX Warning: Reference `chapter:method' on page 2 undefined on input line 163
+.
+
+
+LaTeX Warning: Reference `chapter:results' on page 2 undefined on input line 16
+3.
+
+
+LaTeX Warning: Reference `chapter:conclusion' on page 2 undefined on input line
+ 163.
+
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 166.
+LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
+(Font)              scaled to size 10.79993pt on input line 166.
+[2]
+Chapter 2.
+LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
+(Font)              scaled to size 12.9599pt on input line 175.
+[3
+
+]
+LaTeX Font Info:    Trying to load font information for OT1+ptmcm on input line
+ 182.
+ (C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptmcm.fd
+File: ot1ptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ptmcm.
+)
+LaTeX Font Info:    Trying to load font information for OML+ptmcm on input line
+ 182.
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlptmcm.fd
+File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+psycm on input line
+ 182.
+
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxpsycm.fd
+File: omxpsycm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/psycm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 182.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 182.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 182.
+
+
+LaTeX Warning: Reference `subsec:split' on page 4 undefined on input line 184.
+
+[4]
+
+LaTeX Warning: Reference `MHCpathway' on page 5 undefined on input line 200.
+
+[5]
+<C:/Users/tux/Documents/MScProject/epitope/latex/pics//525px-MHC_Class_I_proces
+sing.svg.png, id=451, 526.96875pt x 635.37375pt>
+File: C:/Users/tux/Documents/MScProject/epitope/latex/pics//525px-MHC_Class_I_p
+rocessing.svg.png Graphic file (type png)
+<use C:/Users/tux/Documents/MScProject/epitope/latex/pics//525px-MHC_Class_I_pr
+ocessing.svg.png>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/epitope/latex/pics//
+525px-MHC_Class_I_processing.svg.png  used on input line 210.
+(pdftex.def)             Requested size: 170.71652pt x 205.83476pt.
+ [6]
+
+LaTeX Warning: Reference `subsec:deconv' on page 7 undefined on input line 218.
+
+
+[7 <C:/Users/tux/Documents/MScProject/epitope/latex/pics//525px-MHC_Class_I_pro
+cessing.svg.png>] [8] [9]
+
+LaTeX Warning: Reference `subsec:netmhcpan' on page 10 undefined on input line 
+241.
+
+[10]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
+50.
+ (C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+
+LaTeX Warning: Reference `equ:PU' on page 11 undefined on input line 262.
+
+
+LaTeX Warning: Reference `equ:PU' on page 11 undefined on input line 264.
+
+
+LaTeX Warning: Reference `subsec:bg_biology_pathway' on page 11 undefined on in
+put line 268.
+
+[11]
+
+LaTeX Warning: Reference `eq:FPR' on page 12 undefined on input line 280.
+
+
+LaTeX Warning: Reference `eq:RECALL_TPR' on page 12 undefined on input line 280
+.
+
+
+Overfull \hbox (2.56665pt too wide) in paragraph at lines 280--281
+[]\OT1/ptm/m/n/12 A com-mon way to vi-su-al-ize a clas-si-fier's di-ag-nos-tic 
+abil-ity is the [][][]receiver-operating-
+ []
+
+
+LaTeX Warning: Reference `eq:RECALL_TPR' on page 12 undefined on input line 282
+.
+
+
+LaTeX Warning: Reference `eq:PRECISION' on page 12 undefined on input line 282.
+
+
+
+LaTeX Warning: Reference `eq:AP' on page 12 undefined on input line 282.
+
+[12] [13] [14]
+
+LaTeX Warning: Reference `subsec:BERTMHC' on page 15 undefined on input line 30
+3.
+
+[15] [16]
+
+LaTeX Warning: Reference `equ:shapley' on page 17 undefined on input line 322.
+
+[17]
+
+LaTeX Warning: Reference `equ:shapley' on page 18 undefined on input line 333.
+
+
+LaTeX Warning: Reference `subsec:bg_biology_pathway' on page 18 undefined on in
+put line 338.
+
+
+LaTeX Warning: Reference `subsec:deconv' on page 18 undefined on input line 340
+.
+
+[18] [19]
+
+LaTeX Warning: Reference `subsec:bg_biology_pathway' on page 20 undefined on in
+put line 357.
+
+[20]
+
+LaTeX Warning: Reference `subsec:deconv' on page 21 undefined on input line 363
+.
+
+
+LaTeX Warning: Reference `subsec:BERT' on page 21 undefined on input line 369.
+
+[21] [22]
+Chapter 3.
+
+LaTeX Warning: Reference `subsec:bg_biology_pathway' on page 23 undefined on in
+put line 393.
+
+
+LaTeX Warning: Reference `subsec:method_decoygeneration' on page 23 undefined o
+n input line 393.
+
+[23
+
+]
+
+LaTeX Warning: Reference `tab:datasources' on page 24 undefined on input line 4
+01.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 409.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 409.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 409.
+
+LaTeX Warning: Reference `subsec:negative' on page 24 undefined on input line 4
+33.
+
+[24]
+
+LaTeX Warning: Reference `subsec:mhcflurry' on page 25 undefined on input line 
+435.
+
+
+LaTeX Warning: Reference `subsec:bg_biology_pathway' on page 25 undefined on in
+put line 435.
+
+
+LaTeX Warning: Reference `subsec:imbalanced' on page 25 undefined on input line
+ 435.
+
+
+LaTeX Warning: Reference `subsec:netmhcpan' on page 25 undefined on input line 
+435.
+
+
+LaTeX Warning: Reference `sec:hypsearch' on page 25 undefined on input line 435
+.
+
+
+LaTeX Warning: Reference `subsec:bg_biology_proteins' on page 25 undefined on i
+nput line 444.
+
+
+LaTeX Warning: Reference `tab:split_mhc' on page 25 undefined on input line 447
+.
+
+
+LaTeX Warning: Reference `tab:split_mhc' on page 25 undefined on input line 449
+.
+
+
+LaTeX Warning: Reference `fig:mhc_split' on page 25 undefined on input line 449
+.
+
+[25]
+<C:/Users/tux/Documents/MScProject/epitope/latex/pics//split.png, id=938, 918.4
+3124pt x 200.24812pt>
+File: C:/Users/tux/Documents/MScProject/epitope/latex/pics//split.png Graphic f
+ile (type png)
+<use C:/Users/tux/Documents/MScProject/epitope/latex/pics//split.png>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/epitope/latex/pics//
+split.png  used on input line 452.
+(pdftex.def)             Requested size: 412.56497pt x 89.95193pt.
+
+
+LaTeX Warning: Reference `tab:split' on page 26 undefined on input line 461.
+
+
+LaTeX Warning: Reference `subsec:BERT' on page 26 undefined on input line 493.
+
+[26 <C:/Users/tux/Documents/MScProject/epitope/latex/pics//split.png>]
+
+LaTeX Warning: Reference `subsec:netmhcpan' on page 27 undefined on input line 
+496.
+
+[27]
+
+LaTeX Warning: Reference `subsec:BERTMHC' on page 28 undefined on input line 51
+3.
+
+
+LaTeX Warning: Reference `sec:hypsearch' on page 28 undefined on input line 513
+.
+
+[28]
+
+LaTeX Warning: Reference `sec:hypsearch' on page 29 undefined on input line 521
+.
+
+[29]
+
+LaTeX Warning: Reference `sec:results_test_set' on page 30 undefined on input l
+ine 530.
+
+
+LaTeX Warning: Reference `subsec:imbalanced' on page 30 undefined on input line
+ 530.
+
+
+LaTeX Warning: Reference `subsec:split' on page 30 undefined on input line 530.
+
+
+
+LaTeX Warning: Reference `subsec:interpretable_ai' on page 30 undefined on inpu
+t line 540.
+
+[30]
+
+LaTeX Warning: Reference `fig:LIME_HLA-A3301' on page 31 undefined on input lin
+e 542.
+
+
+LaTeX Warning: Reference `fig:LIME_HLA-B5401' on page 31 undefined on input lin
+e 542.
+
+
+LaTeX Warning: Reference `fig:LIME_HLA-C0102' on page 31 undefined on input lin
+e 542.
+
+
+LaTeX Warning: Reference `subsec:interpretable_ai' on page 31 undefined on inpu
+t line 548.
+
+
+LaTeX Warning: Reference `subsec:interpretable_ai' on page 31 undefined on inpu
+t line 548.
+
+
+LaTeX Warning: Reference `fig:SHAP_HLA-A3301' on page 31 undefined on input lin
+e 548.
+
+
+LaTeX Warning: Reference `fig:SHAP_HLA-B5401' on page 31 undefined on input lin
+e 548.
+
+
+LaTeX Warning: Reference `fig:SHAP_HLA-C0102' on page 31 undefined on input lin
+e 548.
+
+[31]
+Chapter 4.
+
+LaTeX Warning: Reference `chapter:method' on page 32 undefined on input line 55
+3.
+
+
+LaTeX Warning: Reference `subsec:pooling' on page 32 undefined on input line 55
+8.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 560.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 560.
+
+LaTeX Warning: Reference `subsec:split' on page 32 undefined on input line 560.
+
+
+
+LaTeX Warning: Reference `tab:hparam_e05' on page 32 undefined on input line 56
+0.
+
+
+LaTeX Warning: Reference `tab:hparam_e06' on page 32 undefined on input line 56
+0.
+
+
+LaTeX Warning: Reference `tab:hparam_e05' on page 32 undefined on input line 56
+2.
+
+
+LaTeX Warning: Reference `subsec:imbalanced' on page 32 undefined on input line
+ 562.
+
+
+LaTeX Warning: Reference `tab:hparam_e05' on page 32 undefined on input line 56
+2.
+
+[32
+
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 572.
+
+
+LaTeX Font Warning: Font shape `TS1/ptm/m/sc' undefined
+(Font)              using `TS1/ptm/m/n' instead
+(Font)              for symbol `textdegree' on input line 572.
+
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 5
+97.
+(C:\Users\tux\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1phv.fd
+File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
+)
+
+LaTeX Warning: Reference `tab:training' on page 33 undefined on input line 604.
+
+
+[33]
+
+LaTeX Warning: Reference `tab:test' on page 34 undefined on input line 639.
+
+
+LaTeX Warning: Reference `tab:training' on page 34 undefined on input line 639.
+
+
+
+LaTeX Warning: Reference `subsec:method_comparison' on page 34 undefined on inp
+ut line 667.
+
+
+LaTeX Warning: Reference `tab:benchmark_metrics' on page 34 undefined on input 
+line 667.
+
+[34]
+<C:/Users/tux/Documents/MScProject/output/benchmark//PR.pdf, id=1119, 433.62pt 
+x 289.08pt>
+File: C:/Users/tux/Documents/MScProject/output/benchmark//PR.pdf Graphic file (
+type pdf)
+<use C:/Users/tux/Documents/MScProject/output/benchmark//PR.pdf>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/benchmark//PR
+.pdf  used on input line 684.
+(pdftex.def)             Requested size: 156.49014pt x 104.32896pt.
+
+Overfull \vbox (55.49138pt too high) detected at line 684
+ []
+
+<C:/Users/tux/Documents/MScProject/output/benchmark//PR_red.pdf, id=1120, 433.6
+2pt x 289.08pt>
+File: C:/Users/tux/Documents/MScProject/output/benchmark//PR_red.pdf Graphic fi
+le (type pdf)
+<use C:/Users/tux/Documents/MScProject/output/benchmark//PR_red.pdf>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/benchmark//PR
+_red.pdf  used on input line 692.
+(pdftex.def)             Requested size: 156.49014pt x 104.32896pt.
+
+Overfull \vbox (55.49138pt too high) detected at line 692
+ []
+
+
+LaTeX Warning: Reference `subsec:method_Interpretation' on page 35 undefined on
+ input line 712.
+
+[35 <C:/Users/tux/Documents/MScProject/output/benchmark//PR.pdf> <C:/Users/tux/
+Documents/MScProject/output/benchmark//PR_red.pdf
+
+pdfTeX warning: miktex-pdftex.exe (file C:/Users/tux/Documents/MScProject/outpu
+t/benchmark//PR_red.pdf): PDF inclusion: multiple pdfs with page group included
+ in a single page
+>]
+<C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-A3301.pdf, id=1208, 10
+75.00865pt x 461.47719pt>
+File: C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-A3301.pdf Graphic
+ file (type pdf)
+<use C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-A3301.pdf>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/LIME//lime_HL
+A-A3301.pdf  used on input line 717.
+(pdftex.def)             Requested size: 412.56496pt x 177.10242pt.
+
+
+LaTeX Warning: Reference `fig:LIME_HLA-A3301' on page 36 undefined on input lin
+e 723.
+
+
+LaTeX Warning: Reference `subsec:method_Interpretation' on page 36 undefined on
+ input line 723.
+
+<C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-A3301_actual.png, id
+=1213, 361.35pt x 180.675pt>
+File: C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-A3301_actual.pn
+g Graphic file (type png)
+<use C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-A3301_actual.png
+>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/motifs/pics//
+HLA-A3301_actual.png  used on input line 726.
+(pdftex.def)             Requested size: 162.18062pt x 81.09071pt.
+<C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-A3301_epoch=4-step=3
+648186.png, id=1214, 361.35pt x 180.675pt>
+File: C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-A3301_epoch=4-s
+tep=3648186.png Graphic file (type png)
+<use C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-A3301_epoch=4-st
+ep=3648186.png>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/motifs/pics//
+HLA-A3301_epoch=4-step=3648186.png  used on input line 727.
+(pdftex.def)             Requested size: 162.18062pt x 81.09071pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--728
+[][]
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 729.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:LOGO_HLA-A3301' on page 36 undefined on input lin
+e 733.
+
+
+LaTeX Warning: Reference `subsec:method_Interpretation' on page 36 undefined on
+ input line 733.
+
+
+LaTeX Warning: Reference `fig:LIME_HLA-A3301' on page 36 undefined on input lin
+e 733.
+
+
+LaTeX Warning: Reference `fig:LIME_HLA-A3301' on page 36 undefined on input lin
+e 735.
+
+
+LaTeX Warning: Reference `fig:LOGO_HLA-A3301' on page 36 undefined on input lin
+e 737.
+
+
+LaTeX Warning: Reference `subsec:method_Interpretation' on page 36 undefined on
+ input line 737.
+
+[36 <C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-A3301.pdf> <C:/Use
+rs/tux/Documents/MScProject/output/motifs/pics//HLA-A3301_actual.png> <C:/Users
+/tux/Documents/MScProject/output/motifs/pics//HLA-A3301_epoch=4-step=3648186.pn
+g>]
+<C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-A3301_epoch=4-ste
+p=3648186_all.pdf, id=1276, 557.22038pt x 541.1039pt>
+File: C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-A3301_epoch=
+4-step=3648186_all.pdf Graphic file (type pdf)
+<use C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-A3301_epoch=4
+-step=3648186_all.pdf>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/SHAP/pics//sh
+ap_HLA-A3301_epoch=4-step=3648186_all.pdf  used on input line 742.
+(pdftex.def)             Requested size: 184.9429pt x 179.58864pt.
+<C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-A3301_epoch=4-ste
+p=3648186_scatter.pdf, id=1277, 514.32103pt x 514.32103pt>
+File: C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-A3301_epoch=
+4-step=3648186_scatter.pdf Graphic file (type pdf)
+<use C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-A3301_epoch=4
+-step=3648186_scatter.pdf>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/SHAP/pics//sh
+ap_HLA-A3301_epoch=4-step=3648186_scatter.pdf  used on input line 746.
+(pdftex.def)             Requested size: 184.9429pt x 184.94353pt.
+
+Overfull \hbox (2.28003pt too wide) in paragraph at lines 740--748
+[]$[]$ $[]$ 
+ []
+
+
+LaTeX Warning: Reference `fig:SHAP_HLA-A3301' on page 37 undefined on input lin
+e 752.
+
+
+LaTeX Warning: Reference `subsec:method_Interpretation' on page 37 undefined on
+ input line 752.
+
+
+LaTeX Warning: Reference `fig:LOGO_HLA-A3301' on page 37 undefined on input lin
+e 752.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 752--753
+
+ []
+
+
+LaTeX Warning: Reference `fig:SHAP_HLA-A3301' on page 37 undefined on input lin
+e 755.
+
+
+LaTeX Warning: Reference `fig:SHAP_HLA-A3301_change' on page 37 undefined on in
+put line 755.
+
+<C:/Users/tux/Documents/MScProject/output/SHAP/pics/change//shap_HLA-A3301_epoc
+h=4-step=3648186_change_8_mean.pdf, id=1290, 391.715pt x 639.4358pt>
+File: C:/Users/tux/Documents/MScProject/output/SHAP/pics/change//shap_HLA-A3301
+_epoch=4-step=3648186_change_8_mean.pdf Graphic file (type pdf)
+<use C:/Users/tux/Documents/MScProject/output/SHAP/pics/change//shap_HLA-A3301_
+epoch=4-step=3648186_change_8_mean.pdf>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/SHAP/pics/cha
+nge//shap_HLA-A3301_epoch=4-step=3648186_change_8_mean.pdf  used on input line 
+761.
+(pdftex.def)             Requested size: 119.50148pt x 195.07153pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 762.
+See the caption package documentation for explanation.
+
+
+Underfull \hbox (badness 6708) in paragraph at lines 762--762
+[]\OT1/phv/m/n/12 Figure 4.5: |[]position 8:
+ []
+
+<C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-B5401.pdf, id=1293, 10
+75.00865pt x 461.47719pt>
+File: C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-B5401.pdf Graphic
+ file (type pdf)
+<use C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-B5401.pdf>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/LIME//lime_HL
+A-B5401.pdf  used on input line 776.
+(pdftex.def)             Requested size: 412.56496pt x 177.10242pt.
+
+Overfull \vbox (0.78334pt too high) has occurred while \output is active []
+
+
+[37 <C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-A3301_epoch=4
+-step=3648186_all.pdf> <C:/Users/tux/Documents/MScProject/output/SHAP/pics//sha
+p_HLA-A3301_epoch=4-step=3648186_scatter.pdf
+
+pdfTeX warning: miktex-pdftex.exe (file C:/Users/tux/Documents/MScProject/outpu
+t/SHAP/pics//shap_HLA-A3301_epoch=4-step=3648186_scatter.pdf): PDF inclusion: m
+ultiple pdfs with page group included in a single page
+> <C:/Users/tux/Documents/MScProject/output/SHAP/pics/change//shap_HLA-A3301_ep
+och=4-step=3648186_change_8_mean.pdf
+
+pdfTeX warning: miktex-pdftex.exe (file C:/Users/tux/Documents/MScProject/outpu
+t/SHAP/pics/change//shap_HLA-A3301_epoch=4-step=3648186_change_8_mean.pdf): PDF
+ inclusion: multiple pdfs with page group included in a single page
+>]
+
+LaTeX Warning: Reference `fig:LIME_HLA-B5401' on page 38 undefined on input lin
+e 782.
+
+
+LaTeX Warning: Reference `fig:LIME_HLA-A3301' on page 38 undefined on input lin
+e 782.
+
+
+LaTeX Warning: Reference `fig:LOGO_HLA-B5401' on page 38 undefined on input lin
+e 782.
+
+
+LaTeX Warning: Reference `fig:SHAP_HLA-B5401' on page 38 undefined on input lin
+e 782.
+
+<C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B5401_actual.png, id
+=1445, 361.35pt x 180.675pt>
+File: C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B5401_actual.pn
+g Graphic file (type png)
+<use C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B5401_actual.png
+>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/motifs/pics//
+HLA-B5401_actual.png  used on input line 788.
+(pdftex.def)             Requested size: 170.71652pt x 85.35835pt.
+<C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B5401_epoch=4-step=3
+648186.png, id=1446, 361.35pt x 180.675pt>
+File: C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B5401_epoch=4-s
+tep=3648186.png Graphic file (type png)
+<use C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B5401_epoch=4-st
+ep=3648186.png>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/motifs/pics//
+HLA-B5401_epoch=4-step=3648186.png  used on input line 789.
+(pdftex.def)             Requested size: 170.71652pt x 85.35835pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 790.
+See the caption package documentation for explanation.
+
+<C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-B5401_epoch=4-ste
+p=3648186_all.pdf, id=1447, 557.22038pt x 541.1039pt>
+File: C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-B5401_epoch=
+4-step=3648186_all.pdf Graphic file (type pdf)
+<use C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-B5401_epoch=4
+-step=3648186_all.pdf>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/SHAP/pics//sh
+ap_HLA-B5401_epoch=4-step=3648186_all.pdf  used on input line 793.
+(pdftex.def)             Requested size: 170.71652pt x 165.7754pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 794.
+See the caption package documentation for explanation.
+
+<C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-C0102.pdf, id=1450, 10
+75.00865pt x 461.47719pt>
+File: C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-C0102.pdf Graphic
+ file (type pdf)
+<use C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-C0102.pdf>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/LIME//lime_HL
+A-C0102.pdf  used on input line 801.
+(pdftex.def)             Requested size: 412.56496pt x 177.10242pt.
+[38 <C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-B5401.pdf> <C:/Use
+rs/tux/Documents/MScProject/output/motifs/pics//HLA-B5401_actual.png> <C:/Users
+/tux/Documents/MScProject/output/motifs/pics//HLA-B5401_epoch=4-step=3648186.pn
+g> <C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-B5401_epoch=4-
+step=3648186_all.pdf
+
+pdfTeX warning: miktex-pdftex.exe (file C:/Users/tux/Documents/MScProject/outpu
+t/SHAP/pics//shap_HLA-B5401_epoch=4-step=3648186_all.pdf): PDF inclusion: multi
+ple pdfs with page group included in a single page
+>]
+
+LaTeX Warning: Reference `fig:LIME_HLA-C0102' on page 39 undefined on input lin
+e 807.
+
+
+LaTeX Warning: Reference `fig:LIME_HLA-A3301' on page 39 undefined on input lin
+e 807.
+
+
+LaTeX Warning: Reference `fig:LIME_HLA-B5401' on page 39 undefined on input lin
+e 807.
+
+
+LaTeX Warning: Reference `fig:LOGO_HLA-C0102' on page 39 undefined on input lin
+e 807.
+
+
+LaTeX Warning: Reference `fig:SHAP_HLA-C0102' on page 39 undefined on input lin
+e 807.
+
+
+LaTeX Warning: Reference `fig:LIME_HLA-C0102' on page 39 undefined on input lin
+e 807.
+
+
+LaTeX Warning: Reference `fig:LIME_HLA-C0102' on page 39 undefined on input lin
+e 807.
+
+<C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-C0102_actual.png, id
+=1560, 361.35pt x 180.675pt>
+File: C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-C0102_actual.pn
+g Graphic file (type png)
+<use C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-C0102_actual.png
+>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/motifs/pics//
+HLA-C0102_actual.png  used on input line 811.
+(pdftex.def)             Requested size: 170.71652pt x 85.35835pt.
+<C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-C0102_epoch=4-step=3
+648186.png, id=1561, 361.35pt x 180.675pt>
+File: C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-C0102_epoch=4-s
+tep=3648186.png Graphic file (type png)
+<use C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-C0102_epoch=4-st
+ep=3648186.png>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/motifs/pics//
+HLA-C0102_epoch=4-step=3648186.png  used on input line 812.
+(pdftex.def)             Requested size: 170.71652pt x 85.35835pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 813.
+See the caption package documentation for explanation.
+
+<C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-C0102_epoch=4-ste
+p=3648186_all.pdf, id=1562, 557.22038pt x 541.1039pt>
+File: C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-C0102_epoch=
+4-step=3648186_all.pdf Graphic file (type pdf)
+<use C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-C0102_epoch=4
+-step=3648186_all.pdf>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/SHAP/pics//sh
+ap_HLA-C0102_epoch=4-step=3648186_all.pdf  used on input line 816.
+(pdftex.def)             Requested size: 170.71652pt x 165.7754pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 817.
+See the caption package documentation for explanation.
+
+[39 <C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-C0102.pdf> <C:/Use
+rs/tux/Documents/MScProject/output/motifs/pics//HLA-C0102_actual.png> <C:/Users
+/tux/Documents/MScProject/output/motifs/pics//HLA-C0102_epoch=4-step=3648186.pn
+g> <C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-C0102_epoch=4-
+step=3648186_all.pdf
+
+pdfTeX warning: miktex-pdftex.exe (file C:/Users/tux/Documents/MScProject/outpu
+t/SHAP/pics//shap_HLA-C0102_epoch=4-step=3648186_all.pdf): PDF inclusion: multi
+ple pdfs with page group included in a single page
+>]
+Chapter 5.
+
+LaTeX Warning: Reference `sec:results_benchmarking' on page 40 undefined on inp
+ut line 833.
+
+
+LaTeX Warning: Reference `sec:hypsearch' on page 40 undefined on input line 833
+.
+
+
+LaTeX Warning: Reference `sec:results_interpretation' on page 40 undefined on i
+nput line 833.
+
+[40
+
+]
+Chapter 6.
+
+Overfull \hbox (27.7346pt too wide) in paragraph at lines 848--884
+ [] 
+ []
+
+[41
+
+]
+Overfull \vbox (51.91472pt too high) has occurred while \output is active []
+
+
+[42]
+Underfull \hbox (badness 10000) in paragraph at lines 892--896
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 902--903
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 904--905
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 906--907
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 908--909
+
+ []
+
+[43]
+
+LaTeX Warning: Reference `sec:results_interpretation' on page 44 undefined on i
+nput line 953.
+
+
+LaTeX Warning: Reference `subsec:method_Interpretation' on page 44 undefined on
+ input line 953.
+
+[44]
+<C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-A3303_actual.png, id
+=1697, 361.35pt x 180.675pt>
+File: C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-A3303_actual.pn
+g Graphic file (type png)
+<use C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-A3303_actual.png
+>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/motifs/pics//
+HLA-A3303_actual.png  used on input line 961.
+(pdftex.def)             Requested size: 113.81102pt x 56.90465pt.
+<C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-A3303_epoch=4-step=3
+648186.png, id=1698, 361.35pt x 180.675pt>
+File: C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-A3303_epoch=4-s
+tep=3648186.png Graphic file (type png)
+<use C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-A3303_epoch=4-st
+ep=3648186.png>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/motifs/pics//
+HLA-A3303_epoch=4-step=3648186.png  used on input line 962.
+(pdftex.def)             Requested size: 113.81102pt x 56.90465pt.
+<C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-A3303_epoch=4-ste
+p=3648186_all.pdf, id=1699, 557.22038pt x 541.1039pt>
+File: C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-A3303_epoch=
+4-step=3648186_all.pdf Graphic file (type pdf)
+<use C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-A3303_epoch=4
+-step=3648186_all.pdf>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/SHAP/pics//sh
+ap_HLA-A3303_epoch=4-step=3648186_all.pdf  used on input line 967.
+(pdftex.def)             Requested size: 128.0374pt x 124.32742pt.
+<C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-A3303.pdf, id=1700, 10
+75.00865pt x 461.47719pt>
+File: C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-A3303.pdf Graphic
+ file (type pdf)
+<use C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-A3303.pdf>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/LIME//lime_HL
+A-A3303.pdf  used on input line 972.
+(pdftex.def)             Requested size: 312.9803pt x 134.35307pt.
+<C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-A3601_actual.png, id
+=1705, 361.35pt x 180.675pt>
+File: C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-A3601_actual.pn
+g Graphic file (type png)
+<use C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-A3601_actual.png
+>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/motifs/pics//
+HLA-A3601_actual.png  used on input line 984.
+(pdftex.def)             Requested size: 113.81102pt x 56.90465pt.
+<C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-A3601_epoch=4-step=3
+648186.png, id=1706, 361.35pt x 180.675pt>
+File: C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-A3601_epoch=4-s
+tep=3648186.png Graphic file (type png)
+<use C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-A3601_epoch=4-st
+ep=3648186.png>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/motifs/pics//
+HLA-A3601_epoch=4-step=3648186.png  used on input line 985.
+(pdftex.def)             Requested size: 113.81102pt x 56.90465pt.
+<C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-A3601_epoch=4-ste
+p=3648186_all.pdf, id=1707, 557.22038pt x 541.1039pt>
+File: C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-A3601_epoch=
+4-step=3648186_all.pdf Graphic file (type pdf)
+<use C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-A3601_epoch=4
+-step=3648186_all.pdf>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/SHAP/pics//sh
+ap_HLA-A3601_epoch=4-step=3648186_all.pdf  used on input line 990.
+(pdftex.def)             Requested size: 128.0374pt x 124.32742pt.
+<C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-A3601.pdf, id=1708, 10
+75.00865pt x 461.47719pt>
+File: C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-A3601.pdf Graphic
+ file (type pdf)
+<use C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-A3601.pdf>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/LIME//lime_HL
+A-A3601.pdf  used on input line 995.
+(pdftex.def)             Requested size: 312.9803pt x 134.35307pt.
+<C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-A7401_actual.png, id
+=1713, 361.35pt x 180.675pt>
+File: C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-A7401_actual.pn
+g Graphic file (type png)
+<use C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-A7401_actual.png
+>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/motifs/pics//
+HLA-A7401_actual.png  used on input line 1005.
+(pdftex.def)             Requested size: 113.81102pt x 56.90465pt.
+<C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-A7401_epoch=4-step=3
+648186.png, id=1714, 361.35pt x 180.675pt>
+File: C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-A7401_epoch=4-s
+tep=3648186.png Graphic file (type png)
+<use C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-A7401_epoch=4-st
+ep=3648186.png>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/motifs/pics//
+HLA-A7401_epoch=4-step=3648186.png  used on input line 1006.
+(pdftex.def)             Requested size: 113.81102pt x 56.90465pt.
+<C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-A7401_epoch=4-ste
+p=3648186_all.pdf, id=1715, 557.22038pt x 541.1039pt>
+File: C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-A7401_epoch=
+4-step=3648186_all.pdf Graphic file (type pdf)
+<use C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-A7401_epoch=4
+-step=3648186_all.pdf>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/SHAP/pics//sh
+ap_HLA-A7401_epoch=4-step=3648186_all.pdf  used on input line 1011.
+(pdftex.def)             Requested size: 128.0374pt x 124.32742pt.
+ [45 <C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-A3303_actual.pn
+g> <C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-A3303_epoch=4-ste
+p=3648186.png> <C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-A3
+303_epoch=4-step=3648186_all.pdf> <C:/Users/tux/Documents/MScProject/output/LIM
+E//lime_HLA-A3303.pdf
+
+pdfTeX warning: miktex-pdftex.exe (file C:/Users/tux/Documents/MScProject/outpu
+t/LIME//lime_HLA-A3303.pdf): PDF inclusion: multiple pdfs with page group inclu
+ded in a single page
+> <C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-A3601_actual.png> 
+<C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-A3601_epoch=4-step=3
+648186.png> <C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-A3601
+_epoch=4-step=3648186_all.pdf
+
+pdfTeX warning: miktex-pdftex.exe (file C:/Users/tux/Documents/MScProject/outpu
+t/SHAP/pics//shap_HLA-A3601_epoch=4-step=3648186_all.pdf): PDF inclusion: multi
+ple pdfs with page group included in a single page
+> <C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-A3601.pdf
+
+pdfTeX warning: miktex-pdftex.exe (file C:/Users/tux/Documents/MScProject/outpu
+t/LIME//lime_HLA-A3601.pdf): PDF inclusion: multiple pdfs with page group inclu
+ded in a single page
+>]
+<C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-A7401.pdf, id=1903, 10
+75.00865pt x 461.47719pt>
+File: C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-A7401.pdf Graphic
+ file (type pdf)
+<use C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-A7401.pdf>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/LIME//lime_HL
+A-A7401.pdf  used on input line 1016.
+(pdftex.def)             Requested size: 312.9803pt x 134.35307pt.
+<C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B3701_actual.png, id
+=1908, 361.35pt x 180.675pt>
+File: C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B3701_actual.pn
+g Graphic file (type png)
+<use C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B3701_actual.png
+>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/motifs/pics//
+HLA-B3701_actual.png  used on input line 1026.
+(pdftex.def)             Requested size: 113.81102pt x 56.90465pt.
+<C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B3701_epoch=4-step=3
+648186.png, id=1909, 361.35pt x 180.675pt>
+File: C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B3701_epoch=4-s
+tep=3648186.png Graphic file (type png)
+<use C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B3701_epoch=4-st
+ep=3648186.png>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/motifs/pics//
+HLA-B3701_epoch=4-step=3648186.png  used on input line 1027.
+(pdftex.def)             Requested size: 113.81102pt x 56.90465pt.
+<C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-B3701_epoch=4-ste
+p=3648186_all.pdf, id=1910, 557.22038pt x 541.1039pt>
+File: C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-B3701_epoch=
+4-step=3648186_all.pdf Graphic file (type pdf)
+<use C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-B3701_epoch=4
+-step=3648186_all.pdf>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/SHAP/pics//sh
+ap_HLA-B3701_epoch=4-step=3648186_all.pdf  used on input line 1032.
+(pdftex.def)             Requested size: 128.0374pt x 124.32742pt.
+<C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-B3701.pdf, id=1911, 10
+75.00865pt x 461.47719pt>
+File: C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-B3701.pdf Graphic
+ file (type pdf)
+<use C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-B3701.pdf>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/LIME//lime_HL
+A-B3701.pdf  used on input line 1037.
+(pdftex.def)             Requested size: 312.9803pt x 134.35307pt.
+<C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B4601_actual.png, id
+=1916, 361.35pt x 180.675pt>
+File: C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B4601_actual.pn
+g Graphic file (type png)
+<use C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B4601_actual.png
+>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/motifs/pics//
+HLA-B4601_actual.png  used on input line 1047.
+(pdftex.def)             Requested size: 113.81102pt x 56.90465pt.
+<C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B4601_epoch=4-step=3
+648186.png, id=1917, 361.35pt x 180.675pt>
+File: C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B4601_epoch=4-s
+tep=3648186.png Graphic file (type png)
+<use C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B4601_epoch=4-st
+ep=3648186.png>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/motifs/pics//
+HLA-B4601_epoch=4-step=3648186.png  used on input line 1048.
+(pdftex.def)             Requested size: 113.81102pt x 56.90465pt.
+<C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-B4601_epoch=4-ste
+p=3648186_all.pdf, id=1918, 557.22038pt x 541.1039pt>
+File: C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-B4601_epoch=
+4-step=3648186_all.pdf Graphic file (type pdf)
+<use C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-B4601_epoch=4
+-step=3648186_all.pdf>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/SHAP/pics//sh
+ap_HLA-B4601_epoch=4-step=3648186_all.pdf  used on input line 1053.
+(pdftex.def)             Requested size: 128.0374pt x 124.32742pt.
+ [46 <C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-A7401_actual.pn
+g> <C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-A7401_epoch=4-ste
+p=3648186.png> <C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-A7
+401_epoch=4-step=3648186_all.pdf> <C:/Users/tux/Documents/MScProject/output/LIM
+E//lime_HLA-A7401.pdf
+
+pdfTeX warning: miktex-pdftex.exe (file C:/Users/tux/Documents/MScProject/outpu
+t/LIME//lime_HLA-A7401.pdf): PDF inclusion: multiple pdfs with page group inclu
+ded in a single page
+> <C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B3701_actual.png> 
+<C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B3701_epoch=4-step=3
+648186.png> <C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-B3701
+_epoch=4-step=3648186_all.pdf
+
+pdfTeX warning: miktex-pdftex.exe (file C:/Users/tux/Documents/MScProject/outpu
+t/SHAP/pics//shap_HLA-B3701_epoch=4-step=3648186_all.pdf): PDF inclusion: multi
+ple pdfs with page group included in a single page
+> <C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-B3701.pdf
+
+pdfTeX warning: miktex-pdftex.exe (file C:/Users/tux/Documents/MScProject/outpu
+t/LIME//lime_HLA-B3701.pdf): PDF inclusion: multiple pdfs with page group inclu
+ded in a single page
+>]
+<C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-B4601.pdf, id=2106, 10
+75.00865pt x 461.47719pt>
+File: C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-B4601.pdf Graphic
+ file (type pdf)
+<use C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-B4601.pdf>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/LIME//lime_HL
+A-B4601.pdf  used on input line 1058.
+(pdftex.def)             Requested size: 312.9803pt x 134.35307pt.
+<C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B5801_actual.png, id
+=2111, 361.35pt x 180.675pt>
+File: C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B5801_actual.pn
+g Graphic file (type png)
+<use C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B5801_actual.png
+>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/motifs/pics//
+HLA-B5801_actual.png  used on input line 1068.
+(pdftex.def)             Requested size: 113.81102pt x 56.90465pt.
+<C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B5801_epoch=4-step=3
+648186.png, id=2112, 361.35pt x 180.675pt>
+File: C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B5801_epoch=4-s
+tep=3648186.png Graphic file (type png)
+<use C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B5801_epoch=4-st
+ep=3648186.png>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/motifs/pics//
+HLA-B5801_epoch=4-step=3648186.png  used on input line 1069.
+(pdftex.def)             Requested size: 113.81102pt x 56.90465pt.
+<C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-B5801_epoch=4-ste
+p=3648186_all.pdf, id=2113, 557.22038pt x 541.1039pt>
+File: C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-B5801_epoch=
+4-step=3648186_all.pdf Graphic file (type pdf)
+<use C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-B5801_epoch=4
+-step=3648186_all.pdf>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/SHAP/pics//sh
+ap_HLA-B5801_epoch=4-step=3648186_all.pdf  used on input line 1074.
+(pdftex.def)             Requested size: 128.0374pt x 124.32742pt.
+<C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-B5801.pdf, id=2114, 10
+75.00865pt x 461.47719pt>
+File: C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-B5801.pdf Graphic
+ file (type pdf)
+<use C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-B5801.pdf>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/LIME//lime_HL
+A-B5801.pdf  used on input line 1079.
+(pdftex.def)             Requested size: 312.9803pt x 134.35307pt.
+<C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B5802_actual.png, id
+=2119, 361.35pt x 180.675pt>
+File: C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B5802_actual.pn
+g Graphic file (type png)
+<use C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B5802_actual.png
+>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/motifs/pics//
+HLA-B5802_actual.png  used on input line 1089.
+(pdftex.def)             Requested size: 113.81102pt x 56.90465pt.
+<C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B5802_epoch=4-step=3
+648186.png, id=2120, 361.35pt x 180.675pt>
+File: C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B5802_epoch=4-s
+tep=3648186.png Graphic file (type png)
+<use C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B5802_epoch=4-st
+ep=3648186.png>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/motifs/pics//
+HLA-B5802_epoch=4-step=3648186.png  used on input line 1090.
+(pdftex.def)             Requested size: 113.81102pt x 56.90465pt.
+<C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-B5802_epoch=4-ste
+p=3648186_all.pdf, id=2121, 557.22038pt x 541.1039pt>
+File: C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-B5802_epoch=
+4-step=3648186_all.pdf Graphic file (type pdf)
+<use C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-B5802_epoch=4
+-step=3648186_all.pdf>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/SHAP/pics//sh
+ap_HLA-B5802_epoch=4-step=3648186_all.pdf  used on input line 1095.
+(pdftex.def)             Requested size: 128.0374pt x 124.32742pt.
+ [47 <C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B4601_actual.pn
+g> <C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B4601_epoch=4-ste
+p=3648186.png> <C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-B4
+601_epoch=4-step=3648186_all.pdf> <C:/Users/tux/Documents/MScProject/output/LIM
+E//lime_HLA-B4601.pdf
+
+pdfTeX warning: miktex-pdftex.exe (file C:/Users/tux/Documents/MScProject/outpu
+t/LIME//lime_HLA-B4601.pdf): PDF inclusion: multiple pdfs with page group inclu
+ded in a single page
+> <C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B5801_actual.png> 
+<C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B5801_epoch=4-step=3
+648186.png> <C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-B5801
+_epoch=4-step=3648186_all.pdf
+
+pdfTeX warning: miktex-pdftex.exe (file C:/Users/tux/Documents/MScProject/outpu
+t/SHAP/pics//shap_HLA-B5801_epoch=4-step=3648186_all.pdf): PDF inclusion: multi
+ple pdfs with page group included in a single page
+> <C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-B5801.pdf
+
+pdfTeX warning: miktex-pdftex.exe (file C:/Users/tux/Documents/MScProject/outpu
+t/LIME//lime_HLA-B5801.pdf): PDF inclusion: multiple pdfs with page group inclu
+ded in a single page
+>]
+<C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-B5802.pdf, id=2310, 10
+75.00865pt x 461.47719pt>
+File: C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-B5802.pdf Graphic
+ file (type pdf)
+<use C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-B5802.pdf>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/LIME//lime_HL
+A-B5802.pdf  used on input line 1100.
+(pdftex.def)             Requested size: 312.9803pt x 134.35307pt.
+<C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-C1502_actual.png, id
+=2315, 361.35pt x 180.675pt>
+File: C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-C1502_actual.pn
+g Graphic file (type png)
+<use C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-C1502_actual.png
+>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/motifs/pics//
+HLA-C1502_actual.png  used on input line 1110.
+(pdftex.def)             Requested size: 113.81102pt x 56.90465pt.
+<C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-C1502_epoch=4-step=3
+648186.png, id=2316, 361.35pt x 180.675pt>
+File: C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-C1502_epoch=4-s
+tep=3648186.png Graphic file (type png)
+<use C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-C1502_epoch=4-st
+ep=3648186.png>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/motifs/pics//
+HLA-C1502_epoch=4-step=3648186.png  used on input line 1111.
+(pdftex.def)             Requested size: 113.81102pt x 56.90465pt.
+<C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-C1502_epoch=4-ste
+p=3648186_all.pdf, id=2317, 557.22038pt x 541.1039pt>
+File: C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-C1502_epoch=
+4-step=3648186_all.pdf Graphic file (type pdf)
+<use C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-C1502_epoch=4
+-step=3648186_all.pdf>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/SHAP/pics//sh
+ap_HLA-C1502_epoch=4-step=3648186_all.pdf  used on input line 1116.
+(pdftex.def)             Requested size: 128.0374pt x 124.32742pt.
+<C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-C1502.pdf, id=2318, 10
+75.00865pt x 461.47719pt>
+File: C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-C1502.pdf Graphic
+ file (type pdf)
+<use C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-C1502.pdf>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/LIME//lime_HL
+A-C1502.pdf  used on input line 1121.
+(pdftex.def)             Requested size: 312.9803pt x 134.35307pt.
+<C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-C1701_actual.png, id
+=2323, 361.35pt x 180.675pt>
+File: C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-C1701_actual.pn
+g Graphic file (type png)
+<use C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-C1701_actual.png
+>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/motifs/pics//
+HLA-C1701_actual.png  used on input line 1131.
+(pdftex.def)             Requested size: 113.81102pt x 56.90465pt.
+<C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-C1701_epoch=4-step=3
+648186.png, id=2324, 361.35pt x 180.675pt>
+File: C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-C1701_epoch=4-s
+tep=3648186.png Graphic file (type png)
+<use C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-C1701_epoch=4-st
+ep=3648186.png>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/motifs/pics//
+HLA-C1701_epoch=4-step=3648186.png  used on input line 1132.
+(pdftex.def)             Requested size: 113.81102pt x 56.90465pt.
+<C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-C1701_epoch=4-ste
+p=3648186_all.pdf, id=2325, 557.22038pt x 541.1039pt>
+File: C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-C1701_epoch=
+4-step=3648186_all.pdf Graphic file (type pdf)
+<use C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-C1701_epoch=4
+-step=3648186_all.pdf>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/SHAP/pics//sh
+ap_HLA-C1701_epoch=4-step=3648186_all.pdf  used on input line 1137.
+(pdftex.def)             Requested size: 128.0374pt x 124.32742pt.
+ [48 <C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B5802_actual.pn
+g> <C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-B5802_epoch=4-ste
+p=3648186.png> <C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-B5
+802_epoch=4-step=3648186_all.pdf> <C:/Users/tux/Documents/MScProject/output/LIM
+E//lime_HLA-B5802.pdf
+
+pdfTeX warning: miktex-pdftex.exe (file C:/Users/tux/Documents/MScProject/outpu
+t/LIME//lime_HLA-B5802.pdf): PDF inclusion: multiple pdfs with page group inclu
+ded in a single page
+> <C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-C1502_actual.png> 
+<C:/Users/tux/Documents/MScProject/output/motifs/pics//HLA-C1502_epoch=4-step=3
+648186.png> <C:/Users/tux/Documents/MScProject/output/SHAP/pics//shap_HLA-C1502
+_epoch=4-step=3648186_all.pdf
+
+pdfTeX warning: miktex-pdftex.exe (file C:/Users/tux/Documents/MScProject/outpu
+t/SHAP/pics//shap_HLA-C1502_epoch=4-step=3648186_all.pdf): PDF inclusion: multi
+ple pdfs with page group included in a single page
+> <C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-C1502.pdf
+
+pdfTeX warning: miktex-pdftex.exe (file C:/Users/tux/Documents/MScProject/outpu
+t/LIME//lime_HLA-C1502.pdf): PDF inclusion: multiple pdfs with page group inclu
+ded in a single page
+>]
+<C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-C1701.pdf, id=2513, 10
+75.00865pt x 461.47719pt>
+File: C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-C1701.pdf Graphic
+ file (type pdf)
+<use C:/Users/tux/Documents/MScProject/output/LIME//lime_HLA-C1701.pdf>
+Package pdftex.def Info: C:/Users/tux/Documents/MScProject/output/LIME//lime_HL
+A-C1701.pdf  used on input line 1142.
+(pdftex.def)             Requested size: 312.9803pt x 134.35307pt.
+ (ImmunoBERT.gls) (ImmunoBERT.acr [49 <C:/Users/tux/Documents/MScProject/output
+/motifs/pics//HLA-C1701_actual.png> <C:/Users/tux/Documents/MScProject/output/m
+otifs/pics//HLA-C1701_epoch=4-step=3648186.png> <C:/Users/tux/Documents/MScProj
+ect/output/SHAP/pics//shap_HLA-C1701_epoch=4-step=3648186_all.pdf> <C:/Users/tu
+x/Documents/MScProject/output/LIME//lime_HLA-C1701.pdf
+
+pdfTeX warning: miktex-pdftex.exe (file C:/Users/tux/Documents/MScProject/outpu
+t/LIME//lime_HLA-C1701.pdf): PDF inclusion: multiple pdfs with page group inclu
+ded in a single page
+>] [50
+
+
+] [51]) [52]
+Overfull \hbox (8.40508pt too wide) in paragraph at lines 1150--1150
+\OT1/ptm/m/it/12 anti-gen pre-sen-ta-tion for the char-ac-ter-i-za-tion of un-d
+er-stud-ied immune-landscapes\OT1/ptm/m/n/12 .
+ []
+
+
+Overfull \hbox (10.35706pt too wide) in paragraph at lines 1150--1150
+[]\OT1/ptm/m/n/12 Ton N. Schu-macher and Robert D. Schreiber. ``Neoanti-gens in
+ can-cer im-munother-
+ []
+
+
+Overfull \hbox (14.61465pt too wide) in paragraph at lines 1150--1150
+[]\OT1/ptm/m/n/12 Cynthia M. Fehres et al. ``Un-der-stand-ing the Bi-ol-ogy of 
+Anti-gen Cross-Presentation
+ []
+
+
+Overfull \hbox (9.05814pt too wide) in paragraph at lines 1150--1150
+\OT1/ptm/m/n/12 (2014). Pub-lisher: Fron-tiers. \OT1/ptm/m/sc/12 url\OT1/ptm/m/
+n/12 : [][]$\OT1/pcr/m/n/12 https : / / www . frontiersin . org / articles /
+ []
+
+
+Overfull \hbox (2.281pt too wide) in paragraph at lines 1150--1150
+\OT1/ptm/m/n/12 gen-er-a-tion of im-muno-genic pep-tides for T-cell im-mu-nity'
+'. In: \OT1/ptm/m/it/12 Brief-ings in Bioin-
+ []
+
+[53
+
+] [54]
+Overfull \hbox (3.08719pt too wide) in paragraph at lines 1150--1150
+[]\OT1/ptm/m/n/12 D. F. Hunt et al. ``Char-ac-ter-i-za-tion of pep-tides bound 
+to the class I MHC molecule
+ []
+
+
+Overfull \hbox (15.67046pt too wide) in paragraph at lines 1150--1150
+[]\OT1/ptm/m/n/12 Marie-Paule Lefranc et al. ``IMGT unique num-ber-ing for MHC 
+groove G-DOMAIN
+ []
+
+
+Overfull \hbox (6.04968pt too wide) in paragraph at lines 1150--1150
+\OT1/ptm/m/n/12 and MHC su-per-fam-ily (MhcSF) G-LIKE-DOMAIN''. In: \OT1/ptm/m/
+it/12 De-vel-op-men-tal & Com-
+ []
+
+[55]
+Overfull \hbox (2.05379pt too wide) in paragraph at lines 1150--1150
+[]\OT1/ptm/m/n/12 Maximilian Ilse, Jakub Tom-czak, and Max Welling. ``Attention
+-based Deep Mul-
+ []
+
+
+Overfull \hbox (4.63467pt too wide) in paragraph at lines 1150--1150
+\OT1/ptm/m/n/12 dic-tion with trans-former and mul-ti-ple in-stance learn-ing''
+. In: \OT1/ptm/m/it/12 bioRxiv \OT1/ptm/m/n/12 (Nov. 2020).
+ []
+
+
+Overfull \hbox (36.05272pt too wide) in paragraph at lines 1150--1150
+\OT1/ptm/m/n/12 Pub-lisher: Cold Spring Har-bor Lab-o-ra-tory Sec-tion: New Re-
+sults, p. 2020.11.24.396101.
+ []
+
+[56]
+Overfull \hbox (4.17307pt too wide) in paragraph at lines 1150--1150
+[]\OT1/ptm/m/n/12 sklearn. \OT1/ptm/m/it/12 sklearn.metrics.average[]precision[
+]score | scikit-learn 0.24.2 doc-u-men-
+ []
+
+
+Overfull \hbox (23.59549pt too wide) in paragraph at lines 1150--1150
+\OT1/pcr/m/n/12 nips . cc / paper / 2017 / hash / 3f5ee243547dee91fbd053c1c4a84
+5aa -[] Abstract .
+ []
+
+[57]
+Overfull \hbox (0.79024pt too wide) in paragraph at lines 1150--1150
+\OT1/ptm/m/n/12 ciates Inc., Dec. 2017, pp. 4768{4777. \OT1/ptm/m/sc/12 url\OT1
+/ptm/m/n/12 : [][]$\OT1/pcr/m/n/12 https : / / proceedings . neurips .
+ []
+
+[58]
+Overfull \hbox (4.42491pt too wide) in paragraph at lines 1150--1150
+\OT1/ptm/m/it/12 Im-munol-ogy \OT1/ptm/m/n/12 169.10 (Nov. 2002), pp. 5744{5753
+. \OT1/ptm/m/sc/12 url\OT1/ptm/m/n/12 : [][]$\OT1/pcr/m/n/12 http : / / www . j
+immunol .
+ []
+
+[59]
+Overfull \hbox (59.81537pt too wide) in paragraph at lines 1150--1150
+\OT1/pcr/m/n/12 org / biomart / martview / 48db0485487a9c26d139bc5d7cdda420 ? V
+IRTUALSCHEMANAME =
+ []
+
+
+Overfull \hbox (4.73555pt too wide) in paragraph at lines 1150--1150
+\OT1/pcr/m/n/12 ensembl _ transcript _ id % 7Chsapiens _ gene _ ensembl . defau
+lt . homologs .
+ []
+
+
+Overfull \hbox (4.73555pt too wide) in paragraph at lines 1150--1150
+\OT1/pcr/m/n/12 gene _ ensembl . default . homologs . hsapiens _ paralog _ ense
+mbl _ peptide &
+ []
+
+[60] [61] (ImmunoBERT.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package rerunfilecheck Info: File `ImmunoBERT.out' has not changed.
+(rerunfilecheck)             Checksum: A3721EFB61D4718CE8FFD44AC4732B6B;7341.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                ImmunoBERT
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'ImmunoBERT.run.xml'.
+\openout1 = `ImmunoBERT.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 24758 strings out of 478870
+ 447433 string characters out of 2849785
+ 1180203 words of memory out of 3000000
+ 41946 multiletter control sequences out of 15000+600000
+ 479276 words of font info for 160 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 91i,15n,94p,2733b,1638s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/tux/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/U
+sers/tux/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pf
+b><C:/Users/tux/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+r10.pfb><C:/Users/tux/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmsy10.pfb><C:/Users/tux/AppData/Local/Programs/MiKTeX/fonts/type1/urw/cour
+ier/ucrr8a.pfb><C:/Users/tux/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helv
+etic/uhvb8a.pfb><C:/Users/tux/AppData/Local/Programs/MiKTeX/fonts/type1/urw/hel
+vetic/uhvr8a.pfb><C:/Users/tux/AppData/Local/Programs/MiKTeX/fonts/type1/urw/he
+lvetic/uhvro8a.pfb><C:/Users/tux/AppData/Local/Programs/MiKTeX/fonts/type1/urw/
+symbol/usyr.pfb><C:/Users/tux/AppData/Local/Programs/MiKTeX/fonts/type1/urw/tim
+es/utmb8a.pfb><C:/Users/tux/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times
+/utmr8a.pfb><C:/Users/tux/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/u
+tmri8a.pfb>
+Output written on ImmunoBERT.pdf (66 pages, 1642445 bytes).
+PDF statistics:
+ 3074 PDF objects out of 3580 (max. 8388607)
+ 279 named destinations out of 1000 (max. 500000)
+ 716 words of extra memory for PDF output out of 10000 (max. 10000000)
+

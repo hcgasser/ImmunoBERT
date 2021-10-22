@@ -107,7 +107,7 @@ class MhcAllele:
     def text_to_names(text):
         # HLA-[ABC]\d{2}:\d{2}
         candidate_list = [f"HLA-{x[0]}{int(x[1]):02d}:{int(x[2]):02d}"
-                         for x in re.findall(r"HLA-([ABC])\*?(\d{1,2}):(\d{1,2})", text)]
+                         for x in re.findall(r"HLA-([ABC])\*?(\d{1,}):(\d{1,})", text)]
         if len(candidate_list) != text.count("HLA-"):
             candidate_list = []
 
